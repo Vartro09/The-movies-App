@@ -1,4 +1,4 @@
-# ** The movies app**
+**The Movies App**
 
 ###### This project consists, as requested, in the creation of an app to view information about movies and in turn have the option to buy.
 
@@ -15,3 +15,4 @@
 **- img**
 **- js**
 **- scss**
+
